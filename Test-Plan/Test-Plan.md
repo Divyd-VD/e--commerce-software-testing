@@ -36,9 +36,8 @@ The objective is to test the Demoblaze e-commerce website and make sure its main
 
 ## 5. Testing Tools
 
-- GitHub
-- Postman
-- Selenium
+- GitHub – Test documentation and project management
+- Microsoft Excel – Test case design, test execution, and defect tracking
 
 
 ## 6. Test Deliverables
@@ -47,8 +46,7 @@ The objective is to test the Demoblaze e-commerce website and make sure its main
 - Test Cases
 - Test Execution Results
 - Bug Reports
-- API Test Cases
-- Selenium Automation
+
 
 
 ## 7. Conclusion
